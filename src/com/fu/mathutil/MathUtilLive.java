@@ -17,6 +17,8 @@ public class MathUtilLive {
     public static void main(String[] args) {
         long result = MathUtil.getFactorial(5);
         System.out.println("ad");
+        
+        System.out.println("phan sua doi");
     }
     
 }
